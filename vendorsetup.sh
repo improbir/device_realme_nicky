@@ -1,0 +1,13 @@
+# Dont install AROMAFM
+export FOX_DELETE_AROMAFM=1
+export FOX_DISABLE_APP_MANAGER=1
+
+# Status Bar
+export OF_CLOCK_POS=0
+export OF_STATUS_INDENT_LEFT=48
+export OF_STATUS_INDENT_RIGHT=48
+export OF_SCREEN_H=2340
+export OF_STATUS_H=100
+
+# Ozip decryption
+export OF_SUPPORT_OZIP_DECRYPTION=1
